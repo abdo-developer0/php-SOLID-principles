@@ -1,0 +1,18 @@
+{
+    "name": "abdo-developer0/php-solid-principles",
+    "description": "Examples on SOLID principles",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AbdoDeveloper0\\PhpSolidPrinciples\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdo-developer0",
+            "email": "tknwtknwlwjy10@gmail.com"
+        }
+    ],
+    "require": {}
+}
